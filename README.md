@@ -5,3 +5,5 @@ Ce dépôt présente un travail de recherche intitulé "Éthique de l'IA en scie
     Les questions de transparence et de consentement dans la collecte de données affectives.
 Pour citer ce travail:
 Didier Kouame, "Éthique de l'IA en sciences affectives", GitHub, 2024, https://github.com/didierkouame/Ethique-de-l-IA-en-Sciences-Affectives/.
+
+CC-BY-ND 4.0
